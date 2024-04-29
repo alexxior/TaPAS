@@ -1,8 +1,8 @@
-# TaPAS
-The acoustical, Physical Addon - Saxophones
-Pomysłodawca: dr hab. Tomasz Pruchnicki
-Autor:        inż. Alexander Stefani
-Konsultacja:  Kamil Kozak
+## TaPAS
+## The acoustical, Physical Addon - Saxophones
+# Pomysłodawca: dr hab. Tomasz Pruchnicki
+# Autor:        inż. Alexander Stefani
+# Konsultacja:  Kamil Kozak
 
 Idea is to develop a independent add-on (preferable VST) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through f.x. MIDI controller. We will use open source tools and make a free closed product for artists.
 
