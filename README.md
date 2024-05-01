@@ -4,7 +4,7 @@
 ## Autor:        inż. Alexander Stefani
 ## Konsultacja:  Kamil Kozak
 
-<img src="/tapas_logo.jpg" scale="0.3">
+<img src="/tapas_logo.jpg" width="400" height="400">>
 
 Idea is to develop an independent add-on (preferable VST plugin) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through 4.x. MIDI controller. We will use open source tools and make a free closed product for artists.
 
