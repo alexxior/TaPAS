@@ -1,10 +1,12 @@
 # TaPAS
-# The acoustical, Physical Addon - Saxophones
+# Theoretical acoustics Plugin -> Artificial Saxophones
 ## Pomysłodawca: dr hab. Tomasz Pruchnicki
 ## Autor:        inż. Alexander Stefani
 ## Konsultacja:  Kamil Kozak
 
-Idea is to develop an independent add-on (preferable VST) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through 4.x. MIDI controller. We will use open source tools and make a free closed product for artists.
+![TaPAS Logo](tapas_logo.jpg)
+
+Idea is to develop an independent add-on (preferable VST plugin) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through 4.x. MIDI controller. We will use open source tools and make a free closed product for artists.
 
 The modelling will be calculated from OpenWinD library, JUCE VST creator and "popsicle" library for Python-JUCE integration.
 
@@ -15,3 +17,7 @@ The next milestone is to simulate all typical woodwind instruments through calcu
 These machine learned results will be used for accelerate future add-on and create an AI predication of specifics of woodwinds.
 
 The project will be used for next generation of physical modelling synths using AI prediction 4.x. Hammond organ nonlinear (AI assisted) synthesis.
+
+Potencial far milestone of this plugin will evolve to independent C++ program, 4.x. full-writen VST, without any "Pythonish-like" libraries, only based on trained AI model, possibly run on some microcontroller or microcomputer (STM32, RaspPi, Google Coral, Nvidia Jetson).
+
+Usage of this project will be also moved to KaRKAS, full trained AI morfing plugin for pipe organ simulation with evolving shapes.
