@@ -20,4 +20,4 @@ The project will be used for next generation of physical modelling synths using 
 
 Potencial far milestone of this plugin will evolve to independent C++ program, 4.x. full-writen VST, without any "Pythonish-like" libraries, only based on trained AI model, possibly run on some microcontroller or microcomputer (STM32, RaspPi, Google Coral, Nvidia Jetson).
 
-Usage of this project will be also moved to KaRKAS - full trained AI morfing plugin for pipe organ simulation with evolving shapes.
+Usage of this project will be also moved to KaRKAS - full trained AI morfing plugin for pipe organ simulation with evolving shapes (sound morphing).
