@@ -1,5 +1,5 @@
 # TaPAS
-# Theoretical acoustics Plugin -> Artificial Saxophones
+# Theoretical acoustics Plugin ⟿ Artificial Saxophones
 ## Pomysłodawca: dr hab. Tomasz Pruchnicki
 ## Autor:        inż. Alexander Stefani
 ## Konsultacja:  Kamil Kozak
