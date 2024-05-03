@@ -6,6 +6,17 @@
 
 <img src="/tapas_logo.jpg" width="300" height="300">
 
+{
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/alexxior/TaPAS/blob/main/src/main.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+}
+
 Idea is to develop an independent add-on (preferable VST plugin) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through 4.x. MIDI controller. We will use open source tools and make a free closed product for artists.
 
 The modelling will be calculated from OpenWinD library, JUCE VST creator and "popsicle" library for Python-JUCE integration.
