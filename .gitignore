@@ -8,3 +8,4 @@
 **.config
 **/research
 **/notes
+*.code-workspace
