@@ -4,8 +4,8 @@
 ## Autor:        inż. Alexander Stefani
 ## Konsultacja:  Kamil Kozak
 
-<a target="_blank" href="https://colab.research.google.com/github/alexxior/TaPAS/blob/main/src/main.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open MAIN In Colab"/>
+<a target="_blank" href="https://colab.research.google.com/github/alexxior/TaPAS/blob/alex_dev/src/predicator.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> (a DEV version of ML predicator)
 
 <img src="/tapas_logo.jpg" width="400" height="400">
