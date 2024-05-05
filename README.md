@@ -4,6 +4,10 @@
 ## Autor:        inż. Alexander Stefani
 ## Konsultacja:  Kamil Kozak
 
+<a target="_blank" href="https://colab.research.google.com/github/alexxior/TaPAS/blob/main/src/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open MAIN In Colab"/>
+</a> (a DEV version of ML predicator)
+
 <img src="/tapas_logo.jpg" width="400" height="400">
 
 Idea is to develop an independent add-on (preferable VST plugin) for acoustical physical modelling of different shapes of saxophones to play as an virtual instrument in real-time through 4.x. MIDI controller. We will use open source tools and make a free closed product for artists.
