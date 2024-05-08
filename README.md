@@ -20,8 +20,18 @@ The next milestone is to simulate all typical woodwind instruments through calcu
 
 These machine learned results will be used for accelerate future add-on and create an AI predication of specifics of woodwinds.
 
+Furthermore, we could use Marek Kac's isospectral (isophonic) theory for some strict constraints and use statistics spectral methods.
+The AI training and validating theory of isospectrality could be very innovative and will show emerging patterns of acoustics of wind instruments (not only):
+shape -> timbre,
+spatial boudaries -> harmonic function,
+which leads to solution of so-called Dirichlet problem in some special cases.
+
 The project will be used for next generation of physical modelling synths using AI prediction 4.x. Hammond organ nonlinear (AI assisted) synthesis.
 
 Potencial far milestone of this plugin will evolve to independent C++ program, 4.x. full-writen VST, without any "Pythonish-like" libraries, only based on trained AI model, possibly run on some microcontroller or microcomputer (STM32, RaspPi, Google Coral, Nvidia Jetson).
 
+<<<<<<< Updated upstream
 Usage of this project will be also moved to KaRKAS - full trained AI morfing plugin for pipe organ simulation with evolving shapes (sound morphing).
+=======
+Usage of this project will be also moved to KaRKAS - full trained AI morfing plugin for pipe organ simulation with evolving shapes.
+>>>>>>> Stashed changes
